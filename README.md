@@ -65,7 +65,7 @@ See the LICENSE.md file for more details.
 We welcome user feedback! Please contact us through the following ways:
 
 GitHub Issues: Submit an issue on the project page.
-Email: zhenyuliu.liu@mail.utoronto.ca
+Email: yujun.lu@mail.utoronto.ca
 
 ## Contributions
 Before starting the project, we evenly distributed tasks among all team members. Each time someone made changes, they
